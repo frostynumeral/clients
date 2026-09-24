@@ -8,7 +8,7 @@
 
 ---
 
-# PasswordMsnager Client Applications
+# PasswordManager Client Applications
 
 This repository houses all PasswordMsnager client applications except the mobile applications ([iOS](https://github.com/bitwarden/ios) | [android](https://github.com/bitwarden/android)).
 
